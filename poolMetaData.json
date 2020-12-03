@@ -2,5 +2,6 @@
 	"name": "Sugar Stake Pool",
 	"description": "小さい粒でも甘いをモットーに、委任者とネットワークに焦点を当て運営していきます。Small pool that believes in technology & true decentralization to be a sweet one. Please stake with us!",
 	"ticker": "SUGAR",
-	"homepage": "https://sugarstakepool.wordpress.com"
+	"homepage": "https://sugarstakepool.wordpress.com",
+	"extended": "https://raw.githubusercontent.com/sitaki/metadata/main/extended.json"
 }
