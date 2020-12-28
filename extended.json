@@ -22,8 +22,8 @@
             "vat_id": ""
         },
         "about": {
-            "me": "10+ of working in IT infrastructure industry",
-            "server": "AWS, 2 x vCPU, 4 GiB RAM, 5 Gigabit NW Performance",
+            "me": "10+ of working in IT infrastructure industry with mission-critical customers. 13年以上、ITインフラの業界で、国内テレコミュニケーション、銀行などのミッションクリティカルな要件を求められるお客様に従事してきました。培ったノウハウはステーク・プール運用にも活かせるものと思っています。",
+            "server": "3 x instances on AWS: 2 x vCPU, 8 GiB RAM, 5 Gigabit NW Performance",
             "company": ""
         },
         "rss": "https://note.com/satoshiiiiiiiiii/rss"
