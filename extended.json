@@ -23,10 +23,10 @@
         },
         "about": {
             "me": "10+ of working in IT infrastructure industry with mission-critical customers such like major banks, telecommunication, etc. 13年以上、ITインフラの業界で、国内テレコミュニケーション、銀行などのミッションクリティカルな要件を求められるお客様に従事してきました。培ったノウハウはステーク・プール運用にも活かせるものと思っております。",
-            "server": "3 x instances on AWS: 2 x vCPU, 8 GiB RAM, 5 Gigabit NW Performance",
+            "server": "3 x instances on AWS: 4 x vCPU, 16 GiB RAM",
             "company": ""
         },
-        "rss": "https://note.com/satoshiiiiiiiiii/rss"
+        "rss": ""
     },
     "my-pool-ids": {
         "0": "5c8751066db31d6745bc8a58ba1534de67a95f9962fc309b4673dd8c",
