@@ -26,7 +26,7 @@
             "server": "3 x instances on AWS: 2 x vCPU, 8 GiB RAM, 5 Gigabit NW Performance",
             "company": ""
         },
-        "rss": "https://note.com/satoshiiiiiiiiii/rss"
+        "rss": ""
     },
     "my-pool-ids": {
         "0": "5c8751066db31d6745bc8a58ba1534de67a95f9962fc309b4673dd8c",
