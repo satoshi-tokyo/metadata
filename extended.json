@@ -1,11 +1,11 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/sitaki/metadata/main/images/icon_64x64.png",
-        "url_png_logo": "https://raw.githubusercontent.com/sitaki/metadata/main/images/cs-t1_smaller.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/satoshi-tokyo/metadata/main/images/icon_64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/satoshi-tokyo/metadata/main/images/cs-t1_smaller.png",
         "location": "Tokyo, Japan",
         "social": {
-            "twitter_handle": "@sugar417K",
+            "twitter_handle": "@cardano_sugar",
             "telegram_handle": "joinchat/VLB74HVvEXu0B655",
             "facebook_handle": "",
             "youtube_handle": "",
