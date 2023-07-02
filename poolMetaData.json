@@ -1,7 +1,7 @@
 {
 	"name": "Sugar Stake Pool",
-	"description": "小粒でも甘いをモットーにエンジニアが運用。委任者様の報酬とCardanoへ貢献します！We believe Cardano will bring us sweet world. Stake pool in operation since 2020.08.22",
+	"description": "小粒でも甘いをモットーにエンジニアが運用。委任者様の報酬とCardanoへ貢献します！We believe Cardano will bring us sweet world. Stake pool in operation since 2020.08.22.",
 	"ticker": "SUGAR",
-	"homepage": "https://sugarstakepool.jp",
+	"homepage": "https://twitter.com/cardano_sugar",
 	"extended": "https://raw.githubusercontent.com/satoshi-tokyo/metadata/main/extended.json"
 }
